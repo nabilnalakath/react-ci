@@ -20,7 +20,7 @@
 		7CD92FD65346A864786EFBBA /* libPods-MyApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B5067314FFADE7CFF785DE4 /* libPods-MyApp.a */; };
 		867197BB5B5F388E1FE9AD95 /* libPods-MyAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C9C30AC17F3A3599D02E084A /* libPods-MyAppTests.a */; };
 		901C5FDAA6EF2BA25590E605 /* libPods-MyApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CFB2A1EF354C7D47085CF8D /* libPods-MyApp-tvOS.a */; };
-		DC50CAA423F42255003C542E /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = DC50CAA323F42255003C542E /* AppCenter-Config.plist */; };
+		DCEC631923F47A4600BE78CC /* AppCenter-Config.plist in Resources */ = {isa = PBXBuildFile; fileRef = DCEC631823F47A4600BE78CC /* AppCenter-Config.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,7 +64,7 @@
 		7DDD0FA89DF742B6929932EE /* Pods-MyApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyApp.debug.xcconfig"; path = "Target Support Files/Pods-MyApp/Pods-MyApp.debug.xcconfig"; sourceTree = "<group>"; };
 		A11F383182818FB56C5BF78B /* Pods-MyAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyAppTests.debug.xcconfig"; path = "Target Support Files/Pods-MyAppTests/Pods-MyAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C9C30AC17F3A3599D02E084A /* libPods-MyAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MyAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		DC50CAA323F42255003C542E /* AppCenter-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "AppCenter-Config.plist"; path = "MyApp/AppCenter-Config.plist"; sourceTree = "<group>"; };
+		DCEC631823F47A4600BE78CC /* AppCenter-Config.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "AppCenter-Config.plist"; path = "MyApp/AppCenter-Config.plist"; sourceTree = "<group>"; };
 		E81AE515FFC179F35D02C967 /* Pods-MyApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-MyApp-tvOSTests/Pods-MyApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
@@ -161,7 +161,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				DC50CAA323F42255003C542E /* AppCenter-Config.plist */,
+				DCEC631823F47A4600BE78CC /* AppCenter-Config.plist */,
 				13B07FAE1A68108700A75B9A /* MyApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* MyAppTests */,
@@ -345,7 +345,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				DC50CAA423F42255003C542E /* AppCenter-Config.plist in Resources */,
+				DCEC631923F47A4600BE78CC /* AppCenter-Config.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
