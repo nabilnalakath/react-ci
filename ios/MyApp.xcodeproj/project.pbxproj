@@ -646,7 +646,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.nabil.MyApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.softway.cicdtest;
 				PRODUCT_NAME = MyApp;
 				PROVISIONING_PROFILE_SPECIFIER = SS_All_Device_Debug;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -668,7 +668,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.nabil.MyApp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.softway.cicdtest;
 				PRODUCT_NAME = MyApp;
 				PROVISIONING_PROFILE_SPECIFIER = SS_All_Device_Debug;
 				VERSIONING_SYSTEM = "apple-generic";
